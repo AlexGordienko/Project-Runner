@@ -18,7 +18,7 @@ file_path=""
 usage() {
   cat <<EOF
 Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] [-f] -p param_value arg1 [arg2...]
-This script handles setting up your workspace for all Preston Lab projects.
+Script description
 Available options:
 -h, --help      Print this help and exit
 -v, --verbose   Print script debug info
